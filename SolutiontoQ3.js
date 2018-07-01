@@ -99,3 +99,6 @@ toDec = (input) => {
 
 doTheConversion('ea2291');
 doTheConversion('234,34,145');
+
+//BONUS
+//Published as NPM package: https://www.npmjs.com/package/colorformatconverter
